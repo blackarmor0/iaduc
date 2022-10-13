@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI - Calculator</string>
+    <string name="title">BMI - Chỉ số cơ thể</string>
+    <string name="height">Nhập chiều cao</string>
+    <string name="weight">Nhập cân nặng</string>
+    <string name="result">Xem kêt quả</string>
+</resources>

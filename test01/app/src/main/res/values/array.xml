@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="result">
+        <item>Người gầy</item>
+        <item>Người bình thường</item>
+        <item>Người béo phì độ I</item>
+        <item>Người béo phì độ II</item>
+        <item>Người béo phì độ III</item>
+    </string-array>
+</resources>
